@@ -1,0 +1,54 @@
+{
+    "__JSON__": true,
+    "AUTHOR": "UMAR",
+    "theme": "GOLD-MD",
+    "LANGUAGE": "English",
+    "LANGCODE": "en",  
+    "STRINGS": { 
+        "updater": { 
+            "UPDATE": "BOT IS UPTO DATE...",
+            "UPDATED_LOCAL": "GOLD-MD SUCCESSFULLY UPDATED"
+        },  
+        "global": {      
+            "botName": "GOLD-MD",
+            "body": "A MULTI-DEVICE WHATSAPP BOT WAS CREATED BY UMAR", 
+            "greet2" : "THANKS TO UMAR SIR",
+            "pic1": "https://i.ibb.co/h1X15fV/Gold-Pic-83837619797633e2hshghshshdhxhxjd846431955594613jsksosjejsjsjsjsj-Gold-Pic-jsksjdjxjd7949735.png", 
+            "pic2": "https://i.ibb.co/h1X15fV/Gold-Pic-83837619797633e2hshghshshdhxhxjd846431955594613jsksosjejsjsjsjsj-Gold-Pic-jsksjdjxjd7949735.png", 
+            "pic3": "https://i.ibb.co/h1X15fV/Gold-Pic-83837619797633e2hshghshshdhxhxjd846431955594613jsksosjejsjsjsjsj-Gold-Pic-jsksjdjxjd7949735.png", 
+            "pic4": "https://i.ibb.co/h1X15fV/Gold-Pic-83837619797633e2hshghshshdhxhxjd846431955594613jsksosjejsjsjsjsj-Gold-Pic-jsksjdjxjd7949735.png", 
+            "pic5": "https://i.ibb.co/h1X15fV/Gold-Pic-83837619797633e2hshghshshdhxhxjd846431955594613jsksosjejsjsjsjsj-Gold-Pic-jsksjdjxjd7949735.png", 
+            "pic6": "https://i.ibb.co/h1X15fV/Gold-Pic-83837619797633e2hshghshshdhxhxjd846431955594613jsksosjejsjsjsjsj-Gold-Pic-jsksjdjxjd7949735.png", 
+            "pic7": "https://i.ibb.co/h1X15fV/Gold-Pic-83837619797633e2hshghshshdhxhxjd846431955594613jsksosjejsjsjsjsj-Gold-Pic-jsksjdjxjd7949735.png",
+            "greet" : "ASSALAMUALAIKUM SIR I'M GOLD MD",
+            "dotbody" : "UMAR IS MY DEVOLPER",
+            "emojii" : "🍑", 
+            "promote": "I'M ADMIN OF THIS GROUP🔰",
+            "pmallow": "Hello &user Do not Spam Else I Kick You!!!",
+            "permited": "HSir Msg Me Now!!!", 
+            "revoked" : "Assalamualaikum Sir Your Request Has Been Revoked😢",
+            "demote": "Admin Role Taken back",
+            "antlink": "Link Detecedted User Successfully Kicked!!*",
+            "session": "\n kepp your session id safe sir",
+            "mention": "Tag To Me",
+            "title": "GOLD MD",
+            "footer": "GOLD MD",
+            "by": "Made by: UMAR",
+            "chat_desc": "Options Avilable* : 1. mute\n2. unmute\n3. archive\n4. unarchive\n5. read\n6. unread\n7. delete",
+            "success": "Done ✓",
+            "dot": "Hi, Did you mean *-help?*\n just.. don't bother me while I'm eating ramen",
+            "couple_male": "*I'm pretty sure I can't live without being helped!*",
+            "couple_female": "*I'm pretty sure I can't live without being helped!*",
+            "admin": "Only Group Admin can use this Command.",
+            "botAdmin": "Make me an Admin to take action.",
+            "owner": "It's for my owner only.",
+            "group": "It's for group only.",
+            "private": "It for my Owner only.",
+            "bot": "It is for my Owner Only.",
+            "wait": "Processing..."
+        },
+        "error": {
+            "text": "Dont touch me."
+        }
+    } 
+  }
