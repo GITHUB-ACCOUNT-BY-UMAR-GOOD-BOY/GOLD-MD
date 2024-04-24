@@ -1,9 +1,9 @@
 # GOLD MD WHATSAPP BOT
 
-<img alt="GOLD-MD" width="300" height="300" src="https://i.ibb.co/h1X15fV/Gold-Pic-83837619797633e2hshghshshdhxhxjd846431955594613jsksosjejsjsjsjsj-Gold-Pic-jsksjdjxjd7949735.png">
+<img alt="GOLD-MD" width="300" height="300" src="(.\lib/assets/logo.png)">
 
 ### GET SESSION ID WITH PAIR + QR
-# [SESSION ID](https://gold-md-final-187216ad8114.herokuapp.com)
+# [SESSION ID](https://gold-md-39d9d7192e30.herokuapp.com)
 
 ***
 
